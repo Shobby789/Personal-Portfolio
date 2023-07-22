@@ -70,6 +70,10 @@ body {
   font-weight: 600;
 }
 
+.skills-section {
+  padding: 0 50px;
+}
+
 .skill-btn {
   padding: 10px 15px;
   margin: 8px;
@@ -167,6 +171,10 @@ form {
   .heading {
     width: 100%;
     font-size: 1.3rem;
+  }
+
+  .skills-section {
+    padding: 0 10px;
   }
 
   .project-card-container {
